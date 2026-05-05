@@ -1,138 +1,138 @@
 # 🌸 Thau Luna Acessórios
 
-☀️ ✦ *Feito com carinho só pra você* ✦  
+<p align="center">
+☀️ ✦ <i>Feito com carinho só pra você</i> ✦  
+</p>
 
-**"Onde cada detalhe conta!"**
+<p align="center">
+<b>"Onde cada detalhe conta!"</b>
+</p>
 
 ---
 
 ## ✨ Sobre a marca
 
-A **Thau Luna Acessórios** nasceu em **2025** com o propósito de transformar pequenos detalhes em algo especial.
+A <b>Thau Luna Acessórios</b> nasceu em <b>2025</b> com o propósito de transformar pequenos detalhes em algo especial.
 
-Mais do que acessórios, a marca representa **significado, carinho e identidade**. Cada peça é pensada para expressar sentimentos como:
+Mais do que acessórios, a marca representa <b>significado, carinho e identidade</b>.  
+Cada peça expressa sentimentos como:
 
-- 💕 Amor  
-- ✝️ Fé  
-- 🎀 Amizade  
-- 🌙 Magia  
-- ✨ Autenticidade  
+💖 Amor • ✝️ Fé • 🎀 Amizade • 🌙 Magia • ✨ Autenticidade  
 
 ---
 
-## 💖 Essência da marca
+## 💎 Essência
 
-- ✦ Delicadeza  
-- ✦ Criatividade  
-- ✦ Carinho  
-- ✦ Significado  
-- ✦ Autenticidade  
+<p align="center">
+✦ Delicadeza &nbsp;&nbsp; ✦ Criatividade &nbsp;&nbsp; ✦ Carinho &nbsp;&nbsp; ✦ Significado &nbsp;&nbsp; ✦ Autenticidade ✦
+</p>
 
 ---
 
 ## 🎯 Missão, Visão e Valores
 
-### 🎯 Missão  
-Criar acessórios delicados e personalizados que permitam às pessoas expressarem sua identidade e sentimentos através de pequenos detalhes.
+**🎯 Missão**  
+Criar acessórios delicados e personalizados que expressem identidade e sentimentos.
 
-### 🌙 Visão  
-Ser reconhecida pela criatividade, delicadeza e autenticidade, levando experiências encantadoras para cada vez mais pessoas.
+**🌙 Visão**  
+Ser reconhecida pela criatividade, delicadeza e autenticidade.
 
-### 💕 Valores  
-- Carinho nos detalhes  
-- Criatividade  
-- Significado  
-- Delicadeza  
-- Autenticidade  
+**💕 Valores**  
+Carinho • Criatividade • Significado • Delicadeza • Autenticidade  
 
 ---
 
 ## 🌟 Diferenciais
 
-✨ **Não vendemos só produtos — vendemos significado.**
+✨ Não vendemos só produtos — vendemos significado.
 
-- 🎀 Personalização (nomes, iniciais, mensagens)
+- 🎀 Personalização (nome, inicial, mensagem)
 - 💻 Produtos físicos + digitais
-- ✨ Estética feminina, fofa e encantadora
-- 💰 Preços acessíveis (a partir de R$4,99)
-- 🎁 Kits e Box Surprise para presentes
-- 🌙 Conteúdo criativo e inspirador
+- ✨ Estética fofa, feminina e encantadora
+- 💰 Preços acessíveis
+- 🎁 Presentes e kits especiais
+- 🌙 Marca com conteúdo criativo
 
 ---
 
 ## 🛍️ Produtos
 
-### 💕 Acessórios Personalizados
-- Pulseiras (nome, inicial, BFF)
-- Phone Straps
-- Chaveiros (Spotify, foto, data, versículo)
+**💕 Acessórios**
+- Pulseiras Personalizadas  
+- Phone Straps  
+- Chaveiros (Spotify, foto, data, versículo)  
 
-### 🎁 Especiais
-- Box Surprise Encantarte
+**🎁 Especiais**
+- Box Surprise Encantarte  
 
-### 📸 Personalizados
+**📸 Personalizados**
 - Polaroid Tradicional  
 - Polaroid Mini  
 - Polaroid com Imã  
 
 ---
 
-## 📦 Informações da Loja
+## 📦 Informações
 
-### 📦 Produção & Entrega
-- Produtos sob encomenda (até **10 dias úteis**)  
-- Digitais enviados após pagamento  
+**📦 Produção**  
+Até 10 dias úteis (sob encomenda)
 
-### 🔄 Trocas & Devoluções
-- Até **4 dias após recebimento**  
-- Apenas em caso de defeito ou erro  
-- Produtos personalizados/digitais não possuem troca  
+**🔄 Trocas**  
+Até 4 dias (apenas defeito/erro)
 
-### 💳 Pagamento
-- Pix  
-- PicPay  
-- Cartão de crédito  
+**💳 Pagamento**  
+Pix • PicPay • Cartão
 
-### 🔒 Privacidade
-Seus dados são utilizados apenas para pedidos.  
-**Nunca compartilhamos com terceiros.**
+**🔒 Privacidade**  
+Seus dados são protegidos e não compartilhados.
 
 ---
 
 ## 💬 Avaliações
 
-> "Amiga, você arrasou!!! Os chaveiros ficaram lindos demais!"  
-🌸 *Mariana F.* ⭐⭐⭐⭐⭐  
+> "Amiga, você arrasou!!!"  
+🌸 Mariana F. ⭐⭐⭐⭐⭐  
 
-> "A pulseira ficou ótima, ela amou!"  
-💫 *Gabriel S.* ⭐⭐⭐⭐⭐  
+> "Ela amou demais!"  
+💫 Gabriel S. ⭐⭐⭐⭐⭐  
 
-> "Achei tudo muito lindo e criativo!"  
-✨ *Beatriz L.* ⭐⭐⭐⭐⭐  
+> "Tudo muito lindo e criativo!"  
+✨ Beatriz L. ⭐⭐⭐⭐⭐  
 
-> "Eu amei o chaveiro, muito bonito!"  
-💖 *Livia F.* ⭐⭐⭐⭐⭐  
-
----
-
-## 📲 Redes sociais
-
-📸 Instagram: **@thauluna_acessorios**  
-📌 Pinterest: *Thau Luna*  
+> "Muito bonito, adorei!"  
+💖 Livia F. ⭐⭐⭐⭐⭐  
 
 ---
 
-## 💌 Contato
+## 🌐 Acesse
 
-Entre em contato para encomendas, dúvidas ou parcerias ✨  
+<p align="center">
+
+<a href="https://www.instagram.com/thauluna_acessorios" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@thauluna_acessorios-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.pinterest.com/thaulunaacessorios" target="_blank">
+<img src="https://img.shields.io/badge/Pinterest-Thau%20Luna-E60023?style=for-the-badge&logo=pinterest&logoColor=white">
+</a>
+
+<a href="https://thau-luna-acessorios.stoqui.shop/" target="_blank">
+<img src="https://img.shields.io/badge/Loja%20Online-Acessar-ff69b4?style=for-the-badge&logo=shopify&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-## 🌙 Mensagem final
+## 💌 Mensagem final
 
-> *"Feito com carinho só pra você 💕"*  
+<p align="center">
+💖 <i>Feito com carinho só pra você</i> 💖
+</p>
 
 ---
 
-© 2025 **Thau Luna Acessórios**  
+<p align="center">
+© 2025 <b>Thau Luna Acessórios</b><br>
 Todos os direitos reservados.
+</p>
