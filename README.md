@@ -1,4 +1,4 @@
-🌸 Thau Luna Acessórios — Site Institucional
+#🌸 Thau Luna Acessórios — Site Institucional
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Online-ffb6c1?style=for-the-badge">
@@ -181,7 +181,7 @@ Box Surprise Encantarte
 
 ---
 
-💻 TL DESIGN
+##💻 TL DESIGN
 
 O site também possui uma seção dedicada à:
 
