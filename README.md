@@ -1,134 +1,219 @@
-# 🌸 Thau Luna Acessórios — Site Institucional
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24,30,33&section=header&text=Thau%20Luna%20Acessórios&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 
-> *Um site institucional delicado e moderno criado para representar a essência da Thau Luna Acessórios.*
+<div align="center">
 
-<br>
+<img src="logo.webp" width="130" style="border-radius:50%;" />
 
-## Sobre o Projeto
+# ✨ Thau Luna Acessórios ✨
 
-Este projeto foi desenvolvido para representar digitalmente a identidade da **Thau Luna Acessórios**, trazendo uma estética feminina, elegante e encantadora.
+### 🌙 Onde cada detalhe conta!
 
-O site foi pensado para transmitir mais do que produtos — transmitir sentimentos, significado e conexão através dos pequenos detalhes.
+<p>
+🎀 Acessórios personalizados • 💻 TL Design • ✨ Delicadeza & Criatividade
+</p>
 
-A proposta mistura:
-
-- 🌙 visual delicado
-- 💕 identidade emocional
-- ✨ estética moderna
-- 🎀 experiência acolhedora
-- 💻 responsividade completa
-
-Além da apresentação da marca, o projeto também inclui uma seção dedicada à **TL DESIGN**, área responsável pela criação de soluções digitais modernas.
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=26&pause=1000&color=F8BBD0&center=true&vCenter=true&width=650&lines=Feito+com+carinho+só+pra+você+💕;Pequenos+detalhes+carregam+grandes+significados+✨;Criatividade%2C+fé+e+delicadeza+🌙" />
 
 <br>
 
-## Funcionalidades
+<img src="https://img.shields.io/badge/Status-Pedidos%20Abertos-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desde-2025-f8bbd0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vibe-Coquette%20Pink-ffc0cb?style=for-the-badge"/>
 
-- **Hero Section imersiva** — apresentação visual elegante da marca
-- **Sessão institucional** — história, missão, visão e valores
-- **Galeria de produtos** — acessórios e personalizados
-- **Sessão TL DESIGN** — apresentação de serviços digitais
-- **Reveal ao scroll** — animações suaves durante navegação
-- **Hover effects modernos** — interações elegantes nos cards
-- **Dark/Light Mode** — alternância de tema
-- **Design responsivo** — experiência fluida em qualquer dispositivo
-
-<br>
-
-## TL DESIGN
-
-A seção **TL DESIGN** apresenta os serviços digitais desenvolvidos pela marca:
-
-- 🌐 Site Institucional
-- 🎨 Portfólio
-- 🚀 Landing Page
-- 📰 Blog Simples
-- 🔗 Página de Links (Linktree)
-- 🛒 Página de Produto
-- ⚡ Mini Aplicações Web
-
-<br>
-
-## Stack
-
-| Camada | Tecnologia |
-|---|---|
-| Estrutura | HTML5 semântico |
-| Estilo | CSS3 moderno |
-| Interatividade | JavaScript |
-| Ícones | Remix Icons |
-| Fontes | Google Fonts |
-| Responsividade | Mobile First |
-
-<br>
-
-## Arquitetura do Projeto
-
-```txt
-thau-luna/
-├── index.html
-├── style.css
-├── script.js
-├── logo.webp
-├── avatar.webp
-├── pulseiras.png
-├── phonestrap.png
-├── chaveiros.png
-├── box.png
-├── polaroidtrad.png
-├── polaroidmini.png
-└── polaroidima.png
-```
-
-<br>
-
-## Identidade Visual
-
-| Elemento | Detalhes |
-|---|---|
-| 🎨 Paleta | Rosa bebê, branco, dourado suave |
-| ✨ Estilo | Feminino, delicado e elegante |
-| 🔤 Tipografia | Cormorant Garamond + DM Sans |
-| 🌙 Conceito | Onde cada detalhe conta |
-
-<br>
-
-## Como Rodar Localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/seuusuario/thau-luna.git
-
-# Entre na pasta
-cd thau-luna
-
-# Abra no navegador
-# Abra o index.html
-# ou utilize Live Server no VS Code
-```
-
-> Nenhuma instalação necessária.
-
-<br>
-
-## Acesse
-
-🔗 **Loja:** https://thau-luna-acessorios.stoqui.shop/  
-📸 **Instagram:** https://www.instagram.com/thauluna_acessorios  
-📌 **Pinterest:** https://www.pinterest.com/thaulunaacessorios  
-
-<br>
+</div>
 
 ---
 
-<p align="center">
+# 🌸 Sobre a Marca
 
-💖 <i>Feito com carinho só pra você</i>
+A **Thau Luna Acessórios** nasceu em 2025 com o propósito de transformar pequenos detalhes em algo especial. 💕
 
-</p>
+Criamos acessórios delicados, criativos e cheios de significado, capazes de expressar:
+- ✝️ Fé
+- 🌙 Identidade
+- 💖 Afeto
+- 🎀 Amizade
+- ✨ Personalidade
 
-<p align="center">
+Mais do que acessórios, queremos entregar experiências encantadoras e cheias de carinho.
 
-🌙 <b>Thau Luna Acessórios</b> — Onde cada detalhe conta ✨
+---
 
-</p>
+# ✨ Essência da Marca
+
+<div align="center">
+
+| 🌸 Valor | 💗 Significado |
+|---|---|
+| ✨ Delicadeza | Cada detalhe importa |
+| 🎀 Criatividade | Peças únicas e especiais |
+| 💕 Carinho | Produzido com amor |
+| 🌙 Magia | Estética encantadora |
+| ✝️ Fé | Significado e propósito |
+
+</div>
+
+---
+
+# 🎯 Missão, Visão & Valores
+
+## 🎯 Missão
+Criar acessórios delicados e personalizados que permitam às pessoas expressarem sentimentos, identidade e estilo através de pequenos detalhes cheios de significado.
+
+## 🌙 Visão
+Ser reconhecida pela criatividade, autenticidade e delicadeza, levando experiências encantadoras para cada vez mais pessoas.
+
+## 💖 Valores
+
+- ✦ Carinho nos detalhes  
+- ✦ Criatividade  
+- ✦ Delicadeza  
+- ✦ Significado  
+- ✦ Autenticidade  
+
+---
+
+# 🛍️ Produtos
+
+<div align="center">
+
+| 🎀 Produto | ✨ Descrição |
+|---|---|
+| Pulseiras Personalizadas | Sem nome, inicial, com nome e BFF |
+| Phone Straps | Personalizados e estilosos |
+| Chaveiros | Spotify, foto, versículo e datas |
+| Box Surprise | Caixa surpresa encantadora |
+| Polaroids | Tradicional, mini e com imã |
+
+</div>
+
+---
+
+# 🌷 Diferenciais
+
+<div align="center">
+
+| 💖 Diferencial | 🌸 Descrição |
+|---|---|
+| 🎀 Personalização | Produtos feitos especialmente para você |
+| 💻 Físico + Digital | Acessórios e produtos digitais |
+| ✨ Estética Encantadora | Inspirado em Disney, fé e amizade |
+| 💰 Preços Acessíveis | Produtos a partir de R$4,99 |
+| 🎁 Presentes Criativos | Kits e boxes especiais |
+| 🌙 Marca com Propósito | Muito além de acessórios |
+
+</div>
+
+---
+
+# 💻 TL Design
+
+<div align="center">
+
+### ✨ Sites & Identidade Visual ✨
+
+</div>
+
+A **TL Design** cria projetos modernos, delicados e profissionais para marcas que desejam crescer online. 💕
+
+## 🌸 Serviços
+
+- 💻 Sites Institucionais
+- 🔗 Biolinks Personalizados
+- 🎨 Identidade Visual
+- 📱 Artes para redes sociais
+- ✨ Design criativo
+
+---
+
+# 📦 Políticas
+
+## 📦 Produção & Entrega
+Produtos feitos sob encomenda com prazo de até 10 dias úteis.
+
+## 🔄 Trocas & Devoluções
+Trocas aceitas em casos de defeito ou erro no envio.
+
+## 💳 Pagamento
+Pix, PicPay e cartão de crédito.
+
+## 🔒 Privacidade
+Seus dados são usados apenas para processar pedidos.
+
+---
+
+# 💬 Avaliações
+
+> 🌸 “Os chaveiros ficaram lindos demais e de perfeita qualidade!”  
+> — Mariana F.
+
+> 💫 “A pulseira ficou ótima, ela amou!”  
+> — Gabriel S.
+
+> ✨ “Tudo muito lindo e criativo.”  
+> — Beatriz L.
+
+> 💖 “Amei o chaveiro, muito bonito!”  
+> — Lívia F.
+
+---
+
+# 🌐 Links Oficiais
+
+<div align="center">
+
+| 🌸 Plataforma | 💗 Link |
+|---|---|
+| 🛍️ Loja Oficial | https://thau-luna-acessorios.stoqui.shop |
+| 📸 Instagram | https://www.instagram.com/thauluna_acessorios |
+| 📌 Pinterest | https://www.pinterest.com/thaulunaacessorios |
+| 💬 WhatsApp | https://wa.me/5585987511775 |
+
+</div>
+
+---
+
+# 🎨 Estética da Marca
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Style-Coquette-ffc0cb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aesthetic-Soft%20Luxury-f8bbd0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vibe-Pink%20Elegant-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Theme-Feminine-dc84f3?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📞 Contato
+
+<div align="center">
+
+📍 Maracanaú — CE
+
+📧 thauluna.acessorios@gmail.com
+
+📱 (85) 98751-1775
+
+</div>
+
+---
+
+<div align="center">
+
+### 💕 Feito com carinho só pra você 💕
+
+<a href="https://wa.me/5585987511775">
+<img src="https://img.shields.io/badge/ENTRAR%20EM%20CONTATO-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=24,30,33"/>
+
+### © 2025 Thau Luna Acessórios e TL Design
+
+🌙 Onde cada detalhe conta!
+
+</div>
