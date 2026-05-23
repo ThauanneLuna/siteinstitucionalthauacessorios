@@ -146,3 +146,67 @@
       .galeria-grid { grid-template-columns: 1fr; }
       .diferenciais-grid { grid-template-columns: 1fr; }
     }
+#tl-design {
+  background: linear-gradient(180deg, var(--bege), var(--rosa-bebe));
+}
+
+.tl-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+.tl-card {
+  background: white;
+  border-radius: 20px;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 4px 24px rgba(232,99,140,0.08);
+  transition: all 0.3s ease;
+}
+
+.tl-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 40px rgba(232,99,140,0.15);
+}
+
+.tl-icon {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.tl-card h3 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 500;
+  margin-bottom: 0.8rem;
+  color: var(--texto);
+}
+
+.tl-card p {
+  color: var(--texto-sub);
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.tl-cta {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.tl-cta p {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-style: italic;
+  color: var(--texto-sub);
+  margin-bottom: 1.5rem;
+}
+
+/* RESPONSIVO */
+@media (max-width: 768px) {
+  .tl-grid {
+    grid-template-columns: 1fr;
+  }
+    }
