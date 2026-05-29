@@ -80,7 +80,6 @@ Ser reconhecida pela criatividade, autenticidade e delicadeza, levando experiên
 | 🎀 Produto | ✨ Descrição |
 |---|---|
 | Pulseiras Personalizadas | Sem nome, inicial, com nome e BFF |
-| Phone Straps | Personalizados e estilosos |
 | Chaveiros | Spotify, foto, versículo e datas |
 | Box Surprise | Caixa surpresa encantadora |
 | Polaroids | Tradicional, mini e com imã |
