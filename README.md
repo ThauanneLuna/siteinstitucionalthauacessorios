@@ -163,7 +163,7 @@ Seus dados são usados apenas para processar pedidos.
 
 | 🌸 Plataforma | 💗 Link |
 |---|---|
-| 🛍️ Loja Oficial | https://thau-luna-acessorios.stoqui.shop |
+| 🛍️ Loja Oficial | https://thaulunastudio.stoqui.shop |
 | 📸 Instagram | https://www.instagram.com/thauluna_acessorios |
 | 📌 Pinterest | https://www.pinterest.com/thaulunaacessorios |
 | 💬 WhatsApp | https://wa.me/5585987511775 |
