@@ -1,25 +1,31 @@
-# 🌙 Thau Luna Studio
+<p align="center">
+  <img src="./logo.webp" alt="Thau Luna Studio" width="180">
+</p>
 
-> Onde cada detalhe conta!
+<h1 align="center">🌙 Thau Luna Studio</h1>
 
-Bem-vindo ao repositório oficial da **Thau Luna Studio**.
+<p align="center">
+  <strong>Onde cada detalhe conta!</strong>
+</p>
 
-A Thau Luna Studio é a evolução da antiga Thau Luna Acessórios, reunindo em uma única marca serviços criativos e produtos personalizados. Hoje, o estúdio combina design, tecnologia e produção artesanal para transformar ideias em projetos únicos.
+<p align="center">
+  Um estúdio criativo especializado em desenvolvimento web, design e produtos personalizados.
+</p>
 
 ---
 
-# ✨ O que fazemos
+## ✨ Sobre
 
-## 💻 Serviços Digitais
+A **Thau Luna Studio** reúne criatividade, design, tecnologia e personalização para transformar ideias em experiências únicas. Atuamos tanto no desenvolvimento de soluções digitais quanto na criação de produtos personalizados feitos com atenção aos detalhes.
+
+## 💻 Serviços
 
 - 🌐 Criação de Sites
-- 📄 Landing Pages
+- 🚀 Landing Pages
 - 🎨 Identidade Visual
 - 🖌️ Design Gráfico
 - 📱 Artes para Redes Sociais
 - 💼 Materiais Digitais Personalizados
-
----
 
 ## 🎀 Produtos Personalizados
 
@@ -38,26 +44,20 @@ A Thau Luna Studio é a evolução da antiga Thau Luna Acessórios, reunindo em 
 
 ### Outros Produtos
 
-- Box Surprise | Encantarte
-- Polaroids Personalizadas
-
-Cada produto é desenvolvido com atenção aos detalhes, tornando presentes e lembranças ainda mais especiais.
+- 📦 Box Surprise | Encantarte
+- 📸 Polaroids Personalizadas
 
 ---
 
-# 🌐 Site
-
-Acesse o site oficial:
+## 🌐 Site Oficial
 
 **https://thau-luna-studio.lovable.app**
 
 ---
 
-# 🎨 Identidade da Marca
+## 🎨 Identidade
 
-A Thau Luna Studio une criatividade, delicadeza e inovação em todos os projetos.
-
-### Estilo
+**Estilo**
 
 - Delicado
 - Criativo
@@ -65,21 +65,18 @@ A Thau Luna Studio une criatividade, delicadeza e inovação em todos os projeto
 - Jovem
 - Feminino
 - Minimalista
-- Inspirado na magia dos pequenos detalhes
 
-### Paleta
+**Paleta**
 
-- Rosa claro
-- Branco
-- Cinza suave
-- Dourado
-- Perolado
+- 🌸 Rosa Claro
+- 🤍 Branco
+- 🌫️ Cinza Suave
+- ✨ Dourado
+- 🤍 Perolado
 
 ---
 
-# 🚀 Tecnologias
-
-Este projeto pode utilizar tecnologias como:
+## 🚀 Tecnologias
 
 - HTML5
 - CSS3
@@ -91,7 +88,7 @@ Este projeto pode utilizar tecnologias como:
 
 ---
 
-# 📁 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ```text
 .
@@ -110,22 +107,30 @@ Este projeto pode utilizar tecnologias como:
 
 ---
 
-# 💖 Missão
+## 💖 Missão
 
-Criar soluções criativas que unem design, tecnologia e personalização, oferecendo experiências únicas tanto no digital quanto em produtos físicos.
-
----
-
-# 📲 Redes Sociais
-
-Instagram: **@thauluna_studio**
+Criar soluções criativas que unem estética, funcionalidade e personalidade, ajudando pessoas e empresas a fortalecer sua presença digital e transformar momentos especiais em lembranças inesquecíveis.
 
 ---
 
-# 📬 Contato
+## 📲 Redes Sociais
 
-Entre em contato para solicitar um orçamento, desenvolver sua identidade visual, criar seu site ou personalizar um produto exclusivo.
+- Instagram: https://www.instagram.com/thaulunastudio
 
 ---
 
-Desenvolvido com 🤍 por **Thau Luna Studio**.
+## 📬 Contato
+
+🌐 Site: https://thau-luna-studio.lovable.app
+
+📸 Instagram: https://www.instagram.com/thauluna_studio
+
+---
+
+<div align="center">
+
+### Feito com 🤍 pela Thau Luna Studio
+
+**Criatividade • Design • Desenvolvimento • Personalização**
+
+</div>
