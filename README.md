@@ -49,12 +49,6 @@ A **Thau Luna Studio** reúne criatividade, design, tecnologia e personalizaçã
 
 ---
 
-## 🌐 Site Oficial
-
-**https://thau-luna-studio.lovable.app**
-
----
-
 ## 🎨 Identidade
 
 **Estilo**
@@ -81,41 +75,11 @@ A **Thau Luna Studio** reúne criatividade, design, tecnologia e personalizaçã
 - HTML5
 - CSS3
 - JavaScript
-- TypeScript
-- React
-- Vite
-- Tailwind CSS
-
----
-
-## 📂 Estrutura do Projeto
-
-```text
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── hooks/
-│   ├── lib/
-│   ├── pages/
-│   └── styles/
-├── package.json
-├── vite.config.ts
-└── README.md
-```
-
 ---
 
 ## 💖 Missão
 
 Criar soluções criativas que unem estética, funcionalidade e personalidade, ajudando pessoas e empresas a fortalecer sua presença digital e transformar momentos especiais em lembranças inesquecíveis.
-
----
-
-## 📲 Redes Sociais
-
-- Instagram: https://www.instagram.com/thaulunastudio
 
 ---
 
