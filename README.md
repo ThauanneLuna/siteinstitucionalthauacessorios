@@ -1,218 +1,131 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24,30,33&section=header&text=Thau%20Luna%20Acessórios&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+# 🌙 Thau Luna Studio
 
-<div align="center">
+> Onde cada detalhe conta!
 
-<img src="logo.webp" width="130" style="border-radius:50%;" />
+Bem-vindo ao repositório oficial da **Thau Luna Studio**.
 
-# ✨ Thau Luna Acessórios ✨
-
-### 🌙 Onde cada detalhe conta!
-
-<p>
-🎀 Acessórios personalizados • 💻 TL Design • ✨ Delicadeza & Criatividade
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=26&pause=1000&color=F8BBD0&center=true&vCenter=true&width=650&lines=Feito+com+carinho+só+pra+você+💕;Pequenos+detalhes+carregam+grandes+significados+✨;Criatividade%2C+fé+e+delicadeza+🌙" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Status-Pedidos%20Abertos-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Desde-2025-f8bbd0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vibe-Coquette%20Pink-ffc0cb?style=for-the-badge"/>
-
-</div>
+A Thau Luna Studio é a evolução da antiga Thau Luna Acessórios, reunindo em uma única marca serviços criativos e produtos personalizados. Hoje, o estúdio combina design, tecnologia e produção artesanal para transformar ideias em projetos únicos.
 
 ---
 
-# 🌸 Sobre a Marca
+# ✨ O que fazemos
 
-A **Thau Luna Acessórios** nasceu em 2025 com o propósito de transformar pequenos detalhes em algo especial. 💕
+## 💻 Serviços Digitais
 
-Criamos acessórios delicados, criativos e cheios de significado, capazes de expressar:
-- ✝️ Fé
-- 🌙 Identidade
-- 💖 Afeto
-- 🎀 Amizade
-- ✨ Personalidade
-
-Mais do que acessórios, queremos entregar experiências encantadoras e cheias de carinho.
-
----
-
-# ✨ Essência da Marca
-
-<div align="center">
-
-| 🌸 Valor | 💗 Significado |
-|---|---|
-| ✨ Delicadeza | Cada detalhe importa |
-| 🎀 Criatividade | Peças únicas e especiais |
-| 💕 Carinho | Produzido com amor |
-| 🌙 Magia | Estética encantadora |
-| ✝️ Fé | Significado e propósito |
-
-</div>
-
----
-
-# 🎯 Missão, Visão & Valores
-
-## 🎯 Missão
-Criar acessórios delicados e personalizados que permitam às pessoas expressarem sentimentos, identidade e estilo através de pequenos detalhes cheios de significado.
-
-## 🌙 Visão
-Ser reconhecida pela criatividade, autenticidade e delicadeza, levando experiências encantadoras para cada vez mais pessoas.
-
-## 💖 Valores
-
-- ✦ Carinho nos detalhes  
-- ✦ Criatividade  
-- ✦ Delicadeza  
-- ✦ Significado  
-- ✦ Autenticidade  
-
----
-
-# 🛍️ Produtos
-
-<div align="center">
-
-| 🎀 Produto | ✨ Descrição |
-|---|---|
-| Pulseiras Personalizadas | Sem nome, inicial, com nome e BFF |
-| Chaveiros | Spotify, foto, versículo e datas |
-| Box Surprise | Caixa surpresa encantadora |
-| Polaroids | Tradicional, mini e com imã |
-
-</div>
-
----
-
-# 🌷 Diferenciais
-
-<div align="center">
-
-| 💖 Diferencial | 🌸 Descrição |
-|---|---|
-| 🎀 Personalização | Produtos feitos especialmente para você |
-| 💻 Físico + Digital | Acessórios e produtos digitais |
-| ✨ Estética Encantadora | Inspirado em Disney, fé e amizade |
-| 💰 Preços Acessíveis | Produtos a partir de R$4,99 |
-| 🎁 Presentes Criativos | Kits e boxes especiais |
-| 🌙 Marca com Propósito | Muito além de acessórios |
-
-</div>
-
----
-
-# 💻 TL Design
-
-<div align="center">
-
-### ✨ Sites & Identidade Visual ✨
-
-</div>
-
-A **TL Design** cria projetos modernos, delicados e profissionais para marcas que desejam crescer online. 💕
-
-## 🌸 Serviços
-
-- 💻 Sites Institucionais
-- 🔗 Biolinks Personalizados
+- 🌐 Criação de Sites
+- 📄 Landing Pages
 - 🎨 Identidade Visual
-- 📱 Artes para redes sociais
-- ✨ Design criativo
+- 🖌️ Design Gráfico
+- 📱 Artes para Redes Sociais
+- 💼 Materiais Digitais Personalizados
 
 ---
 
-# 📦 Políticas
+## 🎀 Produtos Personalizados
 
-## 📦 Produção & Entrega
-Produtos feitos sob encomenda com prazo de até 10 dias úteis.
+### Pulseiras
 
-## 🔄 Trocas & Devoluções
-Trocas aceitas em casos de defeito ou erro no envio.
+- Pulseira Personalizada
+- Pulseira com Nome
+- Pulseira com Inicial
+- Pulseira BFF/Dupla
 
-## 💳 Pagamento
-Pix, PicPay e cartão de crédito.
+### Chaveiros
 
-## 🔒 Privacidade
-Seus dados são usados apenas para processar pedidos.
+- Chaveiro Personalizado Simples
+- Chaveiro com Miçangas
+- Chaveiro com Pingente
 
----
+### Outros Produtos
 
-# 💬 Avaliações
+- Box Surprise | Encantarte
+- Polaroids Personalizadas
 
-> 🌸 “Os chaveiros ficaram lindos demais e de perfeita qualidade!”  
-> — Mariana F.
-
-> 💫 “A pulseira ficou ótima, ela amou!”  
-> — Gabriel S.
-
-> ✨ “Tudo muito lindo e criativo.”  
-> — Beatriz L.
-
-> 💖 “Amei o chaveiro, muito bonito!”  
-> — Lívia F.
+Cada produto é desenvolvido com atenção aos detalhes, tornando presentes e lembranças ainda mais especiais.
 
 ---
 
-# 🌐 Links Oficiais
+# 🌐 Site
 
-<div align="center">
+Acesse o site oficial:
 
-| 🌸 Plataforma | 💗 Link |
-|---|---|
-| 🛍️ Loja Oficial | https://thaulunastudio.stoqui.shop |
-| 📸 Instagram | https://www.instagram.com/thauluna_acessorios |
-| 📌 Pinterest | https://www.pinterest.com/thaulunaacessorios |
-| 💬 WhatsApp | https://wa.me/5585987511775 |
-
-</div>
+**https://thau-luna-studio.lovable.app**
 
 ---
 
-# 🎨 Estética da Marca
+# 🎨 Identidade da Marca
 
-<div align="center">
+A Thau Luna Studio une criatividade, delicadeza e inovação em todos os projetos.
 
-<img src="https://img.shields.io/badge/Style-Coquette-ffc0cb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Aesthetic-Soft%20Luxury-f8bbd0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vibe-Pink%20Elegant-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Theme-Feminine-dc84f3?style=for-the-badge"/>
+### Estilo
 
-</div>
+- Delicado
+- Criativo
+- Moderno
+- Jovem
+- Feminino
+- Minimalista
+- Inspirado na magia dos pequenos detalhes
 
----
+### Paleta
 
-# 📞 Contato
-
-<div align="center">
-
-📍 Maracanaú — CE
-
-📧 thauluna.acessorios@gmail.com
-
-📱 (85) 98751-1775
-
-</div>
+- Rosa claro
+- Branco
+- Cinza suave
+- Dourado
+- Perolado
 
 ---
 
-<div align="center">
+# 🚀 Tecnologias
 
-### 💕 Feito com carinho só pra você 💕
+Este projeto pode utilizar tecnologias como:
 
-<a href="https://wa.me/5585987511775">
-<img src="https://img.shields.io/badge/ENTRAR%20EM%20CONTATO-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Vite
+- Tailwind CSS
 
-<br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=24,30,33"/>
+# 📁 Estrutura do Projeto
 
-### © 2025 Thau Luna Acessórios e TL Design
+```text
+.
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── hooks/
+│   ├── lib/
+│   ├── pages/
+│   └── styles/
+├── package.json
+├── vite.config.ts
+└── README.md
+```
 
-🌙 Onde cada detalhe conta!
+---
 
-</div>
+# 💖 Missão
+
+Criar soluções criativas que unem design, tecnologia e personalização, oferecendo experiências únicas tanto no digital quanto em produtos físicos.
+
+---
+
+# 📲 Redes Sociais
+
+Instagram: **@thauluna_studio**
+
+---
+
+# 📬 Contato
+
+Entre em contato para solicitar um orçamento, desenvolver sua identidade visual, criar seu site ou personalizar um produto exclusivo.
+
+---
+
+Desenvolvido com 🤍 por **Thau Luna Studio**.
