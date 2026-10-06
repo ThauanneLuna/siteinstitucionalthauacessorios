@@ -9,92 +9,178 @@
 </p>
 
 <p align="center">
-  Um estúdio criativo especializado em desenvolvimento web, design e produtos personalizados.
+  <em>Design • Desenvolvimento • Personalização</em>
+</p>
+
+<p align="center">
+  Um estúdio criativo que transforma ideias em experiências digitais e produtos personalizados.
+</p>
+
+<p align="center">
+  <a href="https://thau-luna-studio.lovable.app">
+    <img src="https://img.shields.io/badge/🌐%20Visitar%20Site-F8BBD0?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/thauluna_studio">
+    <img src="https://img.shields.io/badge/Instagram-FADADD?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## ✨ Sobre
 
-A **Thau Luna Studio** reúne criatividade, design, tecnologia e personalização para transformar ideias em experiências únicas. Atuamos tanto no desenvolvimento de soluções digitais quanto na criação de produtos personalizados feitos com atenção aos detalhes.
+A **Thau Luna Studio** é um estúdio criativo que reúne **design, tecnologia e personalização** para transformar ideias em experiências únicas.
+
+O estúdio atua na criação de **soluções digitais**, como sites e identidades visuais, e também no desenvolvimento de **produtos personalizados**, feitos com cuidado e atenção aos detalhes.
+
+> Criatividade, estética e funcionalidade trabalhando juntas para dar vida a novas ideias.
+
+---
 
 ## 💻 Serviços
 
-- 🌐 Criação de Sites
-- 🚀 Landing Pages
-- 🎨 Identidade Visual
-- 🖌️ Design Gráfico
-- 📱 Artes para Redes Sociais
-- 💼 Materiais Digitais Personalizados
+### 🌐 Desenvolvimento Web
+
+- Criação de Sites
+- Landing Pages
+- Interfaces Digitais
+- Páginas Personalizadas
+
+### 🎨 Design
+
+- Identidade Visual
+- Design Gráfico
+- Artes para Redes Sociais
+- Materiais Digitais
+- Peças Personalizadas
+
+---
 
 ## 🎀 Produtos Personalizados
 
-### Pulseiras
+A Thau Luna Studio também trabalha com produtos físicos personalizados para transformar momentos e conexões em lembranças especiais.
+
+### 📿 Pulseiras
 
 - Pulseira Personalizada
 - Pulseira com Nome
 - Pulseira com Inicial
-- Pulseira BFF/Dupla
+- Pulseira BFF / Dupla
 
-### Chaveiros
+### 🔑 Chaveiros
 
 - Chaveiro Personalizado Simples
 - Chaveiro com Miçangas
 - Chaveiro com Pingente
 
-### Outros Produtos
+### 🎁 Outros
 
-- 📦 Box Surprise | Encantarte
-- 📸 Polaroids Personalizadas
+- Box Surprise | Encantarte
+- Polaroids Personalizadas
 
 ---
 
-## 🎨 Identidade
+## 🎨 Identidade Visual
 
-**Estilo**
+A identidade da **Thau Luna Studio** busca equilibrar delicadeza e profissionalismo.
 
-- Delicado
-- Criativo
-- Moderno
-- Jovem
-- Feminino
-- Minimalista
+### Estilo
 
-**Paleta**
+**Delicado • Criativo • Moderno • Jovem • Feminino • Minimalista**
 
-- 🌸 Rosa Claro
-- 🤍 Branco
-- 🌫️ Cinza Suave
-- ✨ Dourado
-- 🤍 Perolado
+### Paleta
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Rosa%20Claro-%23F8BBD0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rosa%20Bebê-%23FADADD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Branco-%23FFFFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cinza%20Suave-%23F2F2F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dourado-%23E8C7A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Perolado-%23F5F1ED?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🚀 Tecnologias
 
-- HTML5
-- CSS3
-- JavaScript
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=light"/>
+
+</div>
+
+<br>
+
+As soluções digitais são desenvolvidas utilizando tecnologias web modernas, com foco em **responsividade, estética, organização e experiência do usuário**.
+
+---
+
+## 🌙 Filosofia
+
+Na **Thau Luna Studio**, cada projeto começa com uma ideia.
+
+O objetivo é transformar essa ideia em algo que tenha **personalidade, propósito e significado**, unindo criatividade e tecnologia para criar experiências que realmente representem quem está por trás delas.
+
+### ✦ Criar
+
+Transformar ideias em possibilidades.
+
+### ✦ Desenvolver
+
+Unir design, tecnologia e funcionalidade.
+
+### ✦ Personalizar
+
+Fazer com que cada detalhe tenha significado.
+
 ---
 
 ## 💖 Missão
 
-Criar soluções criativas que unem estética, funcionalidade e personalidade, ajudando pessoas e empresas a fortalecer sua presença digital e transformar momentos especiais em lembranças inesquecíveis.
+Criar soluções criativas que unem **estética, funcionalidade e personalidade**, ajudando pessoas e empresas a fortalecer sua presença digital e transformar momentos especiais em lembranças inesquecíveis.
+
+---
+
+## 📱 Presença Digital
+
+<div align="center">
+
+<a href="https://thau-luna-studio.lovable.app">
+<img src="https://img.shields.io/badge/Website-F8BBD0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/thauluna_studio">
+<img src="https://img.shields.io/badge/Instagram-FADADD?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 📬 Contato
 
-🌐 Site: https://thau-luna-studio.lovable.app
+🌐 **Site:**  
+https://thau-luna-studio.lovable.app
 
-📸 Instagram: https://www.instagram.com/thauluna_studio
+📸 **Instagram:**  
+https://www.instagram.com/thauluna_studio
 
 ---
 
 <div align="center">
 
-### Feito com 🤍 pela Thau Luna Studio
+### 🌙 Thau Luna Studio
 
 **Criatividade • Design • Desenvolvimento • Personalização**
+
+<br>
+
+*Onde cada detalhe conta!*
+
+<br>
+
+♡ Feito com carinho por **Thauanne Luna**
 
 </div>
