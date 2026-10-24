@@ -38,7 +38,7 @@
     .star:nth-child(6) { top: 40%; left: 4%; font-size: 0.8rem; animation-delay: 2s; }
     @keyframes twinkle { 0%,100%{opacity:0.3;transform:scale(1);}50%{opacity:0.9;transform:scale(1.4);} }
     .hero-tag { display: inline-block; font-size: 0.72rem; letter-spacing: 0.35em; text-transform: uppercase; color: var(--dourado); border: 1px solid rgba(212,175,55,0.4); padding: 0.4rem 1.4rem; border-radius: 50px; margin-bottom: 2rem; opacity: 0; animation: fadeUp 0.8s ease 0.2s forwards; }
-    .hero-title { font-family: var(--font-cursive); font-size: clamp(4.5rem,13vw,10rem); color: var(--texto); line-height: 1; margin-bottom: 0.5rem; opacity: 0; animation: fadeUp 1s ease 0.4s forwards; }
+    .hero-title { font-family: var(--font-display); font-size: clamp(4.5rem,13vw,10rem); color: var(--texto); line-height: 1; margin-bottom: 0.5rem; opacity: 0; animation: fadeUp 1s ease 0.4s forwards; }
     .hero-sub-name { font-family: var(--font-display); font-size: clamp(0.75rem,1.5vw,0.95rem); letter-spacing: 0.55em; text-transform: uppercase; color: var(--texto-sub); margin-bottom: 1.5rem; font-weight: 300; opacity: 0; animation: fadeUp 0.8s ease 0.55s forwards; }
     .hero-slogan { font-family: var(--font-display); font-size: clamp(1.1rem,3vw,1.6rem); font-style: italic; color: var(--rosa-medio); margin-bottom: 1.5rem; font-weight: 400; opacity: 0; animation: fadeUp 0.8s ease 0.65s forwards; }
     .hero-desc { font-size: 1rem; color: var(--texto-sub); max-width: 480px; margin: 0 auto 3rem; line-height: 1.9; opacity: 0; animation: fadeUp 0.8s ease 0.8s forwards; }
@@ -105,7 +105,7 @@
     .depoimentos-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 2rem; }
     .depoimento-card { background: white; border-radius: 20px; padding: 2.5rem; box-shadow: 0 4px 24px rgba(200,94,113,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease; }
     .depoimento-card:hover { transform: translateY(-5px); box-shadow: 0 16px 40px rgba(200,94,113,0.15); }
-    .depoimento-aspas { font-family: var(--font-cursive); font-size: 5rem; color: var(--rosa-claro); line-height: 0.5; margin-bottom: 1.5rem; display: block; }
+    .depoimento-aspas { font-family: var(--font-display); font-size: 5rem; color: var(--rosa-claro); line-height: 0.5; margin-bottom: 1.5rem; display: block; }
     .depoimento-texto { color: var(--texto-sub); line-height: 1.85; font-size: 0.95rem; margin-bottom: 1.8rem; font-style: italic; }
     .depoimento-autor { display: flex; align-items: center; gap: 0.8rem; }
     .depoimento-avatar { width: 42px; height: 42px; border-radius: 50%; background: linear-gradient(135deg,var(--rosa-claro),var(--rosa-bebe)); display: flex; align-items: center; justify-content: center; font-size: 1.2rem; flex-shrink: 0; }
@@ -572,3 +572,36 @@
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+/* ===== PORTFÓLIO / IDENTIDADE ===== */
+.hero-title img{width:min(560px,82vw);height:auto;margin:0 auto}
+#identidade{background:var(--branco)}
+.pf-meta{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--rosa-medio);border-bottom:1px solid var(--rosa-medio);margin-bottom:1rem;font-size:.95rem}
+.pf-meta div{padding:1.1rem 1.2rem 1.2rem 0}.pf-meta div+div{padding-left:1.4rem;border-left:1px solid rgba(200,94,113,.35)}
+.pf-meta small,.pf-specs dt{display:block;font-size:.66rem;letter-spacing:.22em;text-transform:uppercase;color:var(--rosa-medio);font-weight:500;margin-bottom:.2rem}
+.pf-item{display:grid;grid-template-columns:250px 1fr;gap:3rem;padding:3.5rem 0;border-top:1px solid rgba(200,94,113,.35)}
+.pf-side{align-self:start;position:sticky;top:110px}
+.pf-n{font-family:var(--font-display);font-size:4.5rem;font-weight:300;color:var(--rosa-medio);line-height:1;display:block}
+.pf-side h3{font-family:var(--font-display);font-size:2rem;font-weight:400;margin:.3rem 0 .6rem}
+.pf-side p{color:var(--texto-sub);font-size:.92rem;line-height:1.8}
+.pf-tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem}
+.pf-tile{margin:0;border-radius:16px;min-height:250px;display:grid;place-items:center;padding:2.2rem 2rem 2.6rem;position:relative}
+.pf-tile img{max-height:150px;width:auto;max-width:100%}
+.pf-tile figcaption{position:absolute;left:1.1rem;bottom:.8rem;font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;font-weight:500}
+.t-cereja{background:var(--rosa-cereja);color:var(--creme-porcelana)}.t-nevoa{background:var(--rosa-nevoa);color:var(--rosa-cereja)}.t-champ{background:var(--bege-champagne);color:var(--rosa-cereja)}
+.pf-specs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:0 1.5rem;margin:1.6rem 0 0}
+.pf-specs div{border-top:1px solid rgba(200,94,113,.4);padding:.8rem 0}.pf-specs dd{margin:0;font-size:.95rem}
+.pf-pal{display:flex;height:270px;border-radius:16px;overflow:hidden;border:1px solid rgba(200,94,113,.3)}
+.pf-pal div{padding:1rem;display:flex;flex-direction:column;justify-content:flex-end;font-size:.75rem;font-weight:500;line-height:1.35;min-width:0}.pf-pal b{display:block;font-size:.82rem}
+.pf-type{display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center}
+.pf-type .aa{font-family:var(--font-display);font-size:clamp(6rem,14vw,11rem);line-height:.9;font-weight:300;color:var(--rosa-medio)}
+.pf-display{font-family:var(--font-display);font-size:2rem;font-weight:400;margin-bottom:.6rem}.pf-sans{color:var(--texto-sub);font-size:.95rem}
+.pf-fotos{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem}.pf-fotos figure{margin:0}
+.pf-fotos img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:16px;background:var(--rosa-bebe)}
+.pf-fotos figcaption{font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;margin-top:.6rem;color:var(--texto-sub)}
+.pf-dd{display:grid;grid-template-columns:1fr 1fr;gap:2rem}
+.pf-dd h4{font-family:var(--font-display);font-size:1.6rem;font-weight:400;padding-bottom:.5rem;border-bottom:1px solid var(--rosa-medio);margin-bottom:.4rem}
+.pf-dd ul{list-style:none;padding:0}.pf-dd li{padding:.8rem 0;border-bottom:1px solid rgba(200,94,113,.25);color:var(--texto-sub);font-size:.92rem;line-height:1.6}
+@media (max-width:768px){.pf-item{grid-template-columns:1fr;gap:1.5rem;padding:2.5rem 0}.pf-side{position:static}.pf-n{font-size:3.2rem}
+.pf-meta,.pf-type,.pf-dd{grid-template-columns:1fr}.pf-meta div+div{padding-left:0;border-left:0;border-top:1px solid rgba(200,94,113,.35)}
+.pf-fotos{grid-template-columns:1fr 1fr}.pf-pal{flex-direction:column;height:auto}.pf-pal div{min-height:68px}}
