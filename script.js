@@ -1,79 +1,51 @@
+// Revelar ao rolar
 const observer = new IntersectionObserver((entries, obs) => {
-  entries.forEach(e => {
-    if (e.isIntersecting) {
-      e.target.classList.add('visible');
-      obs.unobserve(e.target);
-    }
-  });
+  entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); } });
 }, { threshold: 0.1 });
-
 document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
-// GALERIA
+// Galeria (troca de imagem, se usada)
 function switchImg(imgId, thumb, src) {
   const img = document.getElementById(imgId);
   if (!img) return;
-
   img.src = src;
-
   const container = thumb.closest('.galeria-thumbs');
   if (!container) return;
-
-  container.querySelectorAll('.galeria-thumb')
-    .forEach(t => t.classList.remove('active'));
-
+  container.querySelectorAll('.galeria-thumb').forEach(t => t.classList.remove('active'));
   thumb.classList.add('active');
 }
 
-// THEME
+// Tema claro/escuro (o tema inicial é aplicado no <head> para não piscar)
 const themeToggle = document.getElementById('themeToggle');
-
+function paintToggle(theme) {
+  if (!themeToggle) return;
+  themeToggle.innerHTML = theme === 'dark' ? '<i class="ri-sun-line"></i>' : '<i class="ri-moon-line"></i>';
+  themeToggle.setAttribute('aria-label', theme === 'dark' ? 'Ativar modo claro' : 'Ativar modo escuro');
+}
 if (themeToggle) {
-  const saved = localStorage.getItem('thauluna-theme') || 'light';
-
-  document.documentElement.setAttribute('data-theme', saved);
-  themeToggle.textContent = saved === 'dark' ? '🌙' : '☀️';
-
+  paintToggle(document.documentElement.getAttribute('data-theme') || 'light');
   themeToggle.addEventListener('click', () => {
-    const current = document.documentElement.getAttribute('data-theme');
-    const next = current === 'dark' ? 'light' : 'dark';
-
+    const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
     document.documentElement.setAttribute('data-theme', next);
-    themeToggle.textContent = next === 'dark' ? '🌙' : '☀️';
-
-    localStorage.setItem('thauluna-theme', next);
+    paintToggle(next);
+    try { localStorage.setItem('thauluna-theme', next); } catch (e) {}
   });
 }
 
-// BACK TO TOP
+// Voltar ao topo
 const backToTop = document.getElementById('backToTop');
+if (backToTop) backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
-if (backToTop) {
-  backToTop.addEventListener('click', () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+// Menu: destaca a seção atual e mostra o botão de topo
+const navLinks = [...document.querySelectorAll('.nav-links a')];
+function onScroll() {
+  if (backToTop) backToTop.classList.toggle('visible', window.scrollY > 400);
+  let current = navLinks[0];
+  navLinks.forEach(a => {
+    const target = document.querySelector(a.getAttribute('href'));
+    if (target && target.getBoundingClientRect().top <= 140) current = a;
   });
+  navLinks.forEach(a => a.classList.toggle('active', a === current));
 }
-
-// SCROLL EFFECTS
-window.addEventListener('scroll', () => {
-  if (backToTop) {
-    backToTop.classList.toggle('visible', window.scrollY > 400);
-  }
-
-  const header = document.querySelector('header');
-  if (header) {
-    header.style.boxShadow =
-      window.scrollY > 50
-        ? '0 4px 24px rgba(0,0,0,0.08)'
-        : 'none';
-  }
-});
-
-// TL DESIGN (opcional - animação em cascata)
-const tlCards = document.querySelectorAll('#tl-design .tl-card');
-
-if (tlCards.length) {
-  tlCards.forEach((card, i) => {
-    card.style.transitionDelay = `${i * 120}ms`;
-  });
-}
+window.addEventListener('scroll', onScroll, { passive: true });
+onScroll();
